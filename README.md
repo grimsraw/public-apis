@@ -1446,6 +1446,7 @@
 ### Security
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Luxand.cloud Face Recognition](https://luxand.cloud/) | Accurately recognize and compare human faces. Identify people who have been previously tagged in images. Detect age, gender, and emotions in photos. | `apiKey` | Yes | Yes |
 | [Application Environment Verification](https://github.com/fingerprintjs/aev) | Android library and API to verify the safety of user devices, detect rooted devices and other risks | `apiKey` | Yes | Yes |
 | [BinaryEdge](https://docs.binaryedge.io/api-v2.html) | Provide access to BinaryEdge 40fy scanning platform | `apiKey` | Yes | Yes |
 | [BitWarden](https://bitwarden.com/help/api/) | Best open-source password manager | `OAuth`| Yes | Unknown |
@@ -1757,7 +1758,6 @@
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
 | [Shrtcode](https://shrtco.de/docs) | URl Shortener with multiple Domains | No | Yes | Yes |
 | [Shrtlnk](https://shrtlnk.dev/developer) | Simple and efficient short link creation | `apiKey` | Yes | Yes |
-| [Spoo.me](https://spoo.me/api) | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | No | Yes | Yes |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | Yes | No |
 | [url.dev](https://autocode.com/url/api/temporary/0.3.0/create) | Create short, temporary, self-destructing links that expire anywhere from a minute to a week. | No | Yes | Unknown
 | [Urlmskr](https://github.com/Axorax/urlmskr#urlmskr-api) | Easy and fast masked, shortened link creation | No | Yes | Unknown |
